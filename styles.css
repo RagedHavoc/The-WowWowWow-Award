@@ -1,0 +1,104 @@
+body{
+    background-color: #A11E1E;
+}
+.Heading{
+    text-align: center;
+    color: white;
+    font-family: 'Kumar One Outline', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Cinzel', serif;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'VT323', monospace;
+    font-family: 'Monoton', cursive;
+}
+img{
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin: auto;
+}
+.Avengers{
+    text-align: center;
+    color: purple;
+    font-family: 'Kumar One Outline', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Cinzel', serif;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.Funny{
+    text-align: center;
+    color: red;
+    font-family: 'Kumar One Outline', cursive;
+    font-family: 'Indie Flower', cursive;
+
+}
+.Strong{
+    text-align: center;
+    color: #01A7D1;
+    font-family: 'Kumar One Outline', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Cinzel', serif;
+}
+.Weather{
+    text-align: center;
+    color: white;
+    font-family: 'Kumar One Outline', cursive;
+    }
+.Game{
+    text-align: center;
+    color: blue;
+    font-family: 'Kumar One Outline', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Cinzel', serif;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'VT323', monospace;
+}
+.Title{
+    text-align: center;
+    color: white;
+    font-family: 'Kumar One Outline', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Cinzel', serif;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'VT323', monospace;
+    font-family: 'Monoton', cursive;
+    
+}
+.BHN{
+    text-align: center;
+    font-family: 'Kumar One Outline', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Cinzel', serif;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.TFMCN{
+    text-align: center;
+    font-family: 'Kumar One Outline', cursive;
+    font-family: 'Indie Flower', cursive;
+}
+.SXMN{
+    text-align: center;
+    font-family: 'Kumar One Outline', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Cinzel', serif;
+}
+.WCHN{
+    text-align: center;
+    font-family: 'Kumar One Outline', cursive;
+}
+.MAGN{
+    text-align: center;
+    font-family: 'Kumar One Outline', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Cinzel', serif;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'VT323', monospace;
+}
